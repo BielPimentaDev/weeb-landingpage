@@ -15,7 +15,7 @@ export default function Footer() {
 	return (
 		<SectionContainer className='bg-white text-black border-t-2 border-slate-200'>
 			<GridContainer>
-				<div className='flex border-b-2 border-slate-200 lg:flex-row flex-col'>
+				<div className='flex lg:border-b-2 border-slate-200 lg:flex-row flex-col'>
 					<h1 className='font-bold text-3xl mr-48'>weeb</h1>
 					<div className='lg:flex justify-between flex-1 pb-12 hidden'>
 						<ul className='gap-6 flex flex-col'>
