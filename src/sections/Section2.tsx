@@ -18,7 +18,7 @@ export default function Section2() {
 						<div className='relative'>
 							<h1 className='font-bold text-5xl '>
 								<span className='text-purple-600'>Target </span>
-								<span className='bg-[#BE185D]  '>customers</span> with our
+								<span className='bg-[#BE185D]  '>cus</span>tomers with our
 								powerful AI kit
 							</h1>
 						</div>

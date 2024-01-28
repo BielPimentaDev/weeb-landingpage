@@ -29,7 +29,7 @@ export default function Section1() {
 						<FaArrowRight />
 					</a>
 				</div>
-				<Image src={Shape} alt='shapes' />
+				<Image src={Shape} alt='shapes' className='lg:px-0  px-12' />
 			</GridContainer>
 		</SectionContainer>
 	);
